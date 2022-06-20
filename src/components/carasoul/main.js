@@ -14,7 +14,7 @@ function ControlledCarousel() {
 
                     />
                 <Carousel.Caption>
-                    <h3>First Slide</h3>
+                    <h3 style={{ color:'black'}}>MACAW</h3>
                 </Carousel.Caption>    
                 </Carousel.Item>
 
@@ -27,7 +27,7 @@ function ControlledCarousel() {
                         width="400px"
                     />
                 <Carousel.Caption>
-                    <h3>Second Slide</h3>
+                    <h3 style={{ color:'red'}}>KITE</h3>
                 </Carousel.Caption>    
                 </Carousel.Item>
 
@@ -40,7 +40,7 @@ function ControlledCarousel() {
                         width="400px"
                     />
                 <Carousel.Caption>
-                    <h3>Third Slide</h3>
+                    <h3 style={{ color:'red'}}>KINGFISHER</h3>
                 </Carousel.Caption>    
                 </Carousel.Item>
 
